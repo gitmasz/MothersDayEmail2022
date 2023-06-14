@@ -3,4 +3,4 @@ Responsive Email Template for Mother's Day 2022 with animated gif of 3 gift sugg
 
 # Full Desktop Preview
 
-![Rsponsive email template - preview](https://github.com/gitmasz/MothersDayEmail2022/blob/master/preview.png?raw=true)
+![Responsive Mother's Day Email Template 2022](https://github.com/gitmasz/MothersDayEmail2022/blob/master/preview.png?raw=true)
